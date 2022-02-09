@@ -1,18 +1,10 @@
-<!-- ### Hi there 👋 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsingh-23&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsingh-23" /> </p>
+
+<div align="center"><img align="center" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
+<br>
 
 
-<!-- **rohitsingh-23/rohitsingh-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
 
  
@@ -26,11 +18,15 @@ Here are some ideas to get you started: -->
 
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsingh-23&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsingh-23" /> </p>
+ - 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
+- 🎓 &nbsp; Learning Full Stack Web Development Javascript and its frameworks at Masai School
+- 💼 &nbsp; I aspire to work as a full stack web developer.
+- 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
+- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
+- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.
+- ⚡ Fun fact: Coder with biceps.:smile:
 
-
-
-
+<br>
 
 <h2 align="center">🤝🏻  Connect with Me 🤝
 </h2>
