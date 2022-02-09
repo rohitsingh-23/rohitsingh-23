@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsingh-23&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsingh-23" /> </p>
 
-<div align="center"><img align="center" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
+<div align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></div>
 <br>
 
 
@@ -8,7 +8,7 @@
 
 
  
- <h1 align="center">Hi 👋, I'm Rohit</h1>
+ <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Rohit</h1>
 <!-- <div align=center>
  <li>- 🔭 I’m currently working on </li>
  <li>- 🌱 In development I’m currently learning MERN</li>
@@ -32,8 +32,7 @@
 </h2>
 <br>
 <p>
-<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a target=”_blank” href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-rohit23498-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target=”_blank” href="https://www.linkedin.com/in/rohit23498/"><img src="https://img.shields.io/badge/-rohit23498-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target=”_blank” href="mailto:rohit23498@gmail.com"><img src="https://img.shields.io/badge/-rohit23498@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
