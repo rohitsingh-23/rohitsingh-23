@@ -8,7 +8,7 @@
 
 
  
- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Rohit</h1>
+ <h1 align="center">Hi <img width="30px" height="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Rohit</h1>
 <!-- <div align=center>
  <li>- 🔭 I’m currently working on </li>
  <li>- 🌱 In development I’m currently learning MERN</li>
