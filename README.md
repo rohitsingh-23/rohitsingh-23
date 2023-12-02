@@ -16,15 +16,19 @@
  
 </div> -->
 
-<h3 align="center">A passionate web developer from India</h3>
+<p align="center">A Full Stack Developer with two years of professional experience, specializing in web development, project management, and quality assurance testing. Adept at coordinating effectively with development teams to execute complex web development projects.</p>
 
- - 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
-- 🎓 &nbsp; Learning Full Stack Web Development Javascript and its frameworks at Masai School
+<br>
+
+
+
+<!-- - 🎓 &nbsp; Learning Full Stack Web Development Javascript and its frameworks at Masai School
 - 💼 &nbsp; I aspire to work as a full stack web developer.
-- 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
-- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
-- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.
-- ⚡ Fun fact: Coder with biceps.:smile:
+- 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript. -->
+- 🙂 &nbsp; Exploring new technologies.
+- 👯‍♂️ &nbsp; I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
+- 💬 &nbsp; Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.
+- ⚡ Fun fact: Coder with biceps 😅
 
 <br>
 
